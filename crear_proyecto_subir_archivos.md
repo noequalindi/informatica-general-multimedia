@@ -1,5 +1,5 @@
-# Guía para Crear un Repositorio en GitHub 
-Ésta guía es para realizarla con la Interfaz Web de github.
+# Guía para Crear un Repositorio en GitHub y subir archivos
+Ésta guía es para realizarla con la Interfaz Web de github (no por consola).
 
 ---
 
